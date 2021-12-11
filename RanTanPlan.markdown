@@ -48,16 +48,14 @@ _Die Preise sind für 2022 leider etwas höher._
 | Eisengrau Metallic                       |       599€ |
 | Frontscheibe reflektierend               |       259€ |
 | Heavy Chassis (3,5t, Alufelgen 16 Zoll)  |       400€ |
-| Isoliermatte an den Hecktueren           |       199€ |
 | Sanitärpaket Summit                      |       219€ |
 | Steckdosensatz innen (USB,220V)          |       229€ |
 | Tisch mit Ausdrehteil                    |       249€ |
 | Traction+ Citroen                        |       109€ |
 | Truma CP Plus                            |       109€ |
-| Unterfahrschutz Citroen                  |       199€ |
 | Zusatzfenster hinten links               |       529€ |
 |                                          |        --- |
-| **Gesamt**                               | **5.428€** |
+| **Gesamt**                               | **5.026€** |
 
 _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stimmt. Ansonsten nach Übergabe erledigen._
 
@@ -93,7 +91,7 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
 | 4G & WIFI Verstärker               |  x  |        |       250€ |
 | GPS Alarm Sender                   |  x  |        |            |
 | Matratze oder Topper               |  x  |        |            |
-| Dachh-Spoiler fürs Front-Heki      |  x  |        |            |
+| Dach-Spoiler fürs Front-Heki       |  x  |        |            |
 |                                    |     |     -- |        --- |
 | **Gesamt**                         |     |   800€ | **5.515€** |
 
