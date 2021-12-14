@@ -53,9 +53,10 @@ _Die Preise sind für 2022 leider etwas höher._
 | Tisch mit Ausdrehteil                    |       249€ |
 | Traction+ Citroen                        |       109€ |
 | Truma CP Plus                            |       109€ |
+| Truma Duo Control CS                     |       419€ |
 | Zusatzfenster hinten links               |       529€ |
 |                                          |        --- |
-| **Gesamt**                               | **5.026€** |
+| **Gesamt**                               | **5.445€** |
 
 _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stimmt. Ansonsten nach Übergabe erledigen._
 
@@ -72,28 +73,32 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
 
 * = _Original Reifen & Toilette verkaufen, um Ausgaben zu senken_
 
-| Zusatzausstattung                  | DIY | Einbau |      Preis |
-|:-----------------------------------|:---:|-------:|-----------:|
-| 2. Aufbaubatterie                  |  x  |        |       140€ |
-| Wechselrichter 2000W, reiner Sinus |  x  |        |       300€ |
-| Radio                              |  x  |        |       400€ |
-| Rückfahrkamera                     |  ?  |        |       250€ |
-| Osram Night Breaker H7-LED         |  x  |        |       100€ |
-| Luftfederung                       |     |   500€ |     1.400€ |
-| Sandbleche                         |  -  |        |       200€ |
-| Schneeketten                       |  -  |        |       100€ |
-| Kompressor                         |  -  |        |       100€ |
-| Lightpartz Fernlicht               |     |   100€ |       200€ |
-| Fahrradträger                      |  x  |        |       600€ |
-| Folierung                          |     |   200€ |       400€ |
-| SOLIDfy Lock Protection            |  x  |        |        75€ |
-| Mobilade Auszug Heck               |  x  |        |     1.000€ |
-| 4G & WIFI Verstärker               |  x  |        |       250€ |
-| GPS Alarm Sender                   |  x  |        |            |
-| Matratze oder Topper               |  x  |        |            |
-| Dach-Spoiler fürs Front-Heki       |  x  |        |            |
-|                                    |     |     -- |        --- |
-| **Gesamt**                         |     |   800€ | **5.515€** |
+| Zusatzausstattung                                           | DIY | Einbau |      Preis |
+|:------------------------------------------------------------|:---:|-------:|-----------:|
+| 2. Aufbaubatterie AGM (oder 150Ah Supervolt LiPo für 1090€) |  x  |        |       140€ |
+| Wechselrichter 2000W, reiner Sinus                          |  x  |        |       300€ |
+| Radio                                                       |  x  |        |       400€ |
+| Rückfahrkamera                                              |  ?  |        |       250€ |
+| Osram Night Breaker H7-LED                                  |  x  |        |       100€ |
+| Luftfederung                                                |     |   500€ |     1.400€ |
+| Sandbleche                                                  |  -  |        |       200€ |
+| Schneeketten                                                |  -  |        |       100€ |
+| Kompressor                                                  |  -  |        |       100€ |
+| Lightpartz Fernlicht                                        |     |   100€ |       200€ |
+| Fahrradträger                                               |  x  |        |       600€ |
+| Folierung                                                   |     |   200€ |       400€ |
+| SOLIDfy Lock Protection                                     |  x  |        |        75€ |
+| Mobilade Auszug Heck                                        |  x  |        |     1.000€ |
+| 4G / LTE / Cat6 & WIFI Verstärker z.B. Connexx-inet Eco     |  x  |        |       400€ |
+| Bearlock Wegfahrsperre                                      |  -  |   250€ |       400€ |
+| Pandora o.ä. Innenraumanlage                                |  -  |   400€ |     1.300€ |
+| GFK Dach-Spoiler fürs Front-Heki                            |  x  |        |       200€ |
+| Dashcam vorne & hinten                                      |  x  |        |       240€ |
+| 4G GPS-Tracker / Alarm Sender                               |  x  |        |        80€ |
+| Matratze oder Topper                                        |  x  |        |            |
+| Kantop o.ä. Isomatten                                       |  x  |        |            |
+|                                                             |     |     -- |        --- |
+| **Gesamt**                                                  |     |  1450€ | **7.885€** |
 
 
 ## Anmerkungen
@@ -110,7 +115,7 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
   - 500€
   - sollte trotz Bad Heki passen
   - kann Fiamma Markise aufnehmen mit Regenschutz für Schiebetür
-* EuroCarry
+* EuroCarry (Style) Dachreling
   - 800€
   - passt trotz Bad Heki
   - soll Thule Markise aufnehmen können, Regenschutz für Schiebetür?
@@ -141,6 +146,12 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
 * Die Verkabelung sollte durch ein Heki geführt werden, statt ein weiteres Loch in das Dach zu bohren.
 * 300W (peak power) sollten es sein, um bei sonnigem Wetter dauerhaft autark stehen zu könnnen.
 * Wie problematisch ist die teilweise Verschattung durch Querträger des Dachgepäckträgers?
+
+### Toilette
+
+* Passt die Nature's Head Toilette mit dem Spider Arm überhaupt an die Stelle der Dometic CT4000?
+* Hat Arwinger bis dahin evtl. einen (günstigeren) Umbausatz zu einer Kassettentrenntoilette für Dometic im Angebot?
+* Wäre die Trelino L eine Alternative?
 
 ## Arbeitstitel
 
