@@ -34,7 +34,7 @@ _Die Preise sind für 2022 leider etwas höher._
 | Truma C4 Gas                                         |             |
 | USB Anschluss im Armaturenbrett                      |             |
 | Verstaerkte Lichtmaschine 220 Ah                     |             |
-| Zweiter Zuendschluuessel mit Fernbedienung           |             |
+| Zweiter Zuendschluessel mit Fernbedienung            |             |
 | Überführung                                          |      1.490€ |
 |                                                      |         --- |
 | **Gesamt**                                           | **45.189€** |
@@ -103,6 +103,21 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
 
 ## Anmerkungen
 
+### Batterien
+
+1x AGM 95Ah (27Kg) ist bereits verbaut und wird bei den AGM Optionen (außer Preis) mitgezählt.
+
+| Option | Type     | Anzahl | Ah pro Batterie | Gewicht insg. | Preis insg. | Ah insg. |
+|:-------|:---------|:------:|----------------:|--------------:|------------:|---------:|
+| A      | AGM Blei |   2x   |         _*95Ah_ |          54Kg |        140€ |  _190Ah_ |
+| B      | AGM Blei |   4x   |         _*95Ah_ |         110Kg |        450€ |  _380Ah_ |
+| C      | LiFePo4  |   1x   |           100Ah |          11Kg |        790€ |    100Ah |
+| D      | LiFePo4  |   2x   |           100Ah |          23Kg |       1400€ |    200Ah |
+| E      | LiFePo4  |   1x   |           150Ah |          17Kg |       1090€ |    150Ah |
+| F      | LiFePo4  |   2x   |           150Ah |          34Kg |       2090€ |    300Ah |
+  
+> _*= aus AGM Batterien lässt nur etwa halb so viel Energie entnehmen, wie aus LiFePo4_
+
 ### Dachgepäckträger
 
 * Anforderungen:
@@ -152,6 +167,24 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
 * Passt die Nature's Head Toilette mit dem Spider Arm überhaupt an die Stelle der Dometic CT4000?
 * Hat Arwinger bis dahin evtl. einen (günstigeren) Umbausatz zu einer Kassettentrenntoilette für Dometic im Angebot?
 * Wäre die Trelino L eine Alternative?
+
+### Zulässiges Gesamtgewicht 3,5t
+
+> Die Masse [2.983 Kg] im fahrbereiten Zustand beinhaltet 75 Kg für den Fahrer, sowie 20l Frischwasser- und 90% Dieseltankfüllung, 14Kg Gas (1 x 11l Alugasflasche) und 4Kg für eine Kabeltrommel.
+
++ 14Kg 2.Gasflasche
++ 80Kg Wasser
++ 20Kg Getränke
++ 60Kg Mitfahrer
++ 2*40Kg Kleidung und Utensiien
++ 50Kg Dachträger inkl. Solarmodule
++ 50Kg Nahrungsmittel und Geschirr
++ 50Kg Werkzeug und Freizeitgedöns
++ 82Kg AGM Batterien
+
+=> **3467Kg** ohne Markise, Fahrradträger, Kayak oder Surfbrett.
+
+Also doch auf jeden Fall statt 4x AGM Batterie (a 27Kg) mit zusammen 380Ah besser 1x LiFePo4 (a 17Kg) mit 150Ah einbauen?!
 
 ## Arbeitstitel
 
