@@ -75,36 +75,41 @@ _Die folgenden Extras könnten vom Händler verbaut werden - wenn der Preis stim
 * = _Original Reifen & Toilette verkaufen, um Ausgaben zu senken_
 
 
-_Die folgende Zusatzausstattung kann als Wunsch- und Ideenliste gelesen werden._  
-_Die meisten Dinge werden nicht direkt und manche wahrscheinlich nie angeschafft._  
+| Potentielle Zusatzausstattung                                  | DIY | Einbau |     Preis | Gewicht |
+|:---------------------------------------------------------------|:---:|-------:|----------:|--------:|
+| 4G GPS-Tracker / Alarm Sender                                  |  x  |        |       80€ |         |
+| Aufbaubatterie 150Ah LiFePo4 Supervolt (statt 95AH AGM, -27Kg) |  x  |        |     1090€ |   17 Kg |
+| Bearlock Wegfahrsperre                                         |  -  |   250€ |      400€ |    2 Kg |
+| Dashcam vorne & hinten                                         |  x  |        |      240€ |    1 Kg |
+| Isomatten für die Hecktür (oder selbst basteln)                |  x  |        |      100€ |    2 Kg |
+| Isomatten für das Fahrerhaus (außen) (zB von Kantop)           |  x  |        |      200€ |    2 Kg |
+| Kompressor                                                     |  -  |        |      100€ |    2 Kg |
+| Matratze oder Topper                                           |  x  |        |      200€ |   12 Kg |
+| Mobilade Auszug Heck                                           |  x  |        |    1.000€ |   15 Kg |
+| Radio                                                          |  x  |        |      400€ |    1 Kg |
+| Rückfahrkamera                                                 |  ?  |        |      250€ |    1 Kg |
+| SOLIDfy Lock Protection                                        |  x  |        |       75€ |         |
+| Sandbleche                                                     |  -  |        |      120€ |    6 Kg |
+| Schneeketten                                                   |  -  |        |      100€ |    9 Kg |
+| Wechselrichter 2000W, reiner Sinus                             |  x  |        |      300€ |    6 Kg |
+|                                                                |     |     -- |       --- |     --- |
+| **Gesamt**                                                     |     |   250€ | **4655€** |   74 Kg |
 
-| Zusatzausstattung                                             | DIY | Einbau |     Preis | Gewicht |
+_Die meisten der folgenden Dinge werden nicht direkt und manche wahrscheinlich nie angeschafft._  
+
+| Ideenliste                                                    | DIY | Einbau |     Preis | Gewicht |
 |:--------------------------------------------------------------|:---:|-------:|----------:|--------:|
-| Aufbaubatterie 150Ah LiFePo4 Supervolt (alternativ)           |  x  |        |     1090€ |   17 Kg |
-| Wechselrichter 2000W, reiner Sinus                            |  x  |        |      300€ |    6 Kg |
-| Radio                                                         |  x  |        |      400€ |    1 Kg |
-| Rückfahrkamera                                                |  ?  |        |      250€ |    1 Kg |
-| Osram Night Breaker H7-LED                                    |  x  |        |      100€ |         |
-| Luftfederung                                                  |     |   500€ |    1.400€ |   10 Kg |
-| Unterfahrschutz Stahl                                         |  x  |        |      200€ |   17 Kg |
-| Sandbleche                                                    |  -  |        |      120€ |    6 Kg |
-| Schneeketten                                                  |  -  |        |      100€ |    9 Kg |
-| Kompressor                                                    |  -  |        |      100€ |    2 Kg |
-| Lightpartz Fernlicht                                          |     |   100€ |      200€ |         |
+| 4G / LTE / Cat6 & WIFI Verstärker (Connexx-inet oder Netgear) |  x  |        |      400€ |    2 Kg |
 | Fahrradträger                                                 |  x  |        |      600€ |   16 Kg |
 | Folierung                                                     |     |   200€ |      400€ |         |
-| SOLIDfy Lock Protection                                       |  x  |        |       75€ |         |
-| Mobilade Auszug Heck                                          |  x  |        |    1.000€ |   15 Kg |
-| 4G / LTE / Cat6 & WIFI Verstärker (Connexx-inet oder Netgear) |  x  |        |      400€ |    2 Kg |
-| Bearlock Wegfahrsperre                                        |  -  |   250€ |      400€ |    2 Kg |
-| Pandora o.ä. Innenraumanlage                                  |  -  |   400€ |    1.300€ |         |
 | GFK Dach-Spoiler fürs Front-Heki                              |  x  |        |      200€ |    1 Kg |
-| Dashcam vorne & hinten                                        |  x  |        |      240€ |    1 Kg |
-| 4G GPS-Tracker / Alarm Sender                                 |  x  |        |       80€ |         |
-| Matratze oder Topper                                          |  x  |        |           |   12 Kg |
-| Kantop o.ä. Isomatten für die Hecktür                         |  x  |        |           |    2 Kg |
+| Lightpartz Fernlicht                                          |     |   100€ |      200€ |    2 Kg |
+| Luftfederung                                                  |     |   500€ |    1.400€ |   10 Kg |
+| Osram Night Breaker H7-LED                                    |  x  |        |      100€ |         |
+| Pandora o.ä. Innenraum-Alarmanlage                            |  -  |   400€ |    1.300€ |         |
+| Unterfahrschutz Stahl                                         |  x  |        |      200€ |   17 Kg |
 |                                                               |     |     -- |       --- |     --- |
-| **Gesamt**                                                    |     |  1450€ | **8955€** |  120 Kg |
+| **Gesamt**                                                    |     |  1200€ | **4800€** |   48 Kg |
 
 
 ## Anmerkungen
